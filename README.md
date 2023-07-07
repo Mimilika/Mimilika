@@ -1,7 +1,7 @@
 # Hi there 👋
 ### Hi there 👋, my name is Mimiya Jannat 
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 your profile.
 
 - 🔭 I’m currently working on Facebook 
